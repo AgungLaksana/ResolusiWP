@@ -1,4 +1,5 @@
 - Membuat tutorial Vue
 - membuat tutorial Swift dasar
-- Interview iOS developer
-- interview Android developer
+- Interview experts
+- Interview NodeJS Developer
+- Mempelajari Machine Learning
