@@ -1,4 +1,4 @@
-- Membuat tutorial Vue
+- Membuat tutorial Vue JS
 - membuat tutorial Swift dasar
 - Interview experts
 - Interview NodeJS Developer
