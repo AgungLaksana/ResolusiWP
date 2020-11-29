@@ -1,6 +1,9 @@
+
 - Membuat tutorial Vue JS
+- ganti kamera
 - membuat tutorial Swift dasar
 - Interview experts
 - Interview NodeJS Developer
 - Mempelajari Machine Learning
 - Belajar R
+
