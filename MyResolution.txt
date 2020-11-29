@@ -1,0 +1,2 @@
+- Membuat tutorial Vue
+- membuat tutorial Swift dasar
