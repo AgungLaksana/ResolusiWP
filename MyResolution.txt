@@ -8,4 +8,5 @@
 - Belajar R
 - belajar Flask
 - belajar Ruby on rail
+- mempelajari AWS
 
