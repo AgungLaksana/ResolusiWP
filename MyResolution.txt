@@ -8,5 +8,5 @@
 - Belajar R
 - belajar Flask
 - belajar Ruby on rail
-- fitu 2020
+- mempelajari AWS
 
