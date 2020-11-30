@@ -7,4 +7,5 @@
 - Mempelajari Machine Learning
 - Belajar R
 - belajar Flask
+- belajar Ruby on rail
 
